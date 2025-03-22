@@ -1,0 +1,13 @@
+{
+  "templates": {
+    "Classic": {
+      "fields": { "contact": { "name": "", "email": "", "phone": "", "location": "", "linkedin": "" }, "skills": [ "Skill 1", "Skill 2", "Skill 3" ], "experience": [ { "jobTitle": "", "companyName": "", "location": "", "startDate": "", "endDate": "" } ], "education": [ { "degree": "", "university": "", "year": "" } ] }
+    },
+    "Minimalist": {
+      "fields": { "contact": { "name": "", "email": "", "phone": "", "location": "", "linkedin": "" }, "profileSummary": { "headline": "", "summary": "" }, "education": [ { "degree": "", "university": "", "year": "" } ], "skills": [ "Skill 1", "Skill 2" ] }
+    },
+    "Modern": {
+      "fields": { "contact": { "name": "", "email": "", "phone": "", "location": "", "linkedin": "" }, "profileSummary": { "headline": "", "summary": "" }, "experience": [ { "jobTitle": "", "companyName": "", "location": "", "startDate": "", "endDate": "" } ], "skills": [ "Skill 1", "Skill 2", "Skill 3", "Skill 4" ], "certifications": [ { "title": "", "issuer": "" } ] }
+    }
+  }
+}
